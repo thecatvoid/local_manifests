@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/motorola/guamp" name="thecatvoid/android_device_motorola_guamp" remote="github" revision="main" />
+ <project path="vendor/motorola/guamp" name="thecatvoid/android_vendor_motorola_guamp" remote="github" revision="main" />
+ <project path="kernel/motorola/guamp" name="thecatvoid/android_kernel_motorola_guamp" remote="github" revision="main" />
+ 
+</manifest>
